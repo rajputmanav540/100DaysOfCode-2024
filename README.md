@@ -1,9 +1,9 @@
-# Questions for Day 25 – (15/07/2024)
+# Questions for Day 26 – (16/07/2024)
 # DSA Practice: Solving LeetCode Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Remove Element]([https://leetcode.com/problems/remove-element/description/])(https://leetcode.com/problems/remove-element/description/)
+Q1. [Palindrome Number]([https://leetcode.com/problems/palindrome-number/description/])(https://leetcode.com/problems/palindrome-number/description/)
 
-Q2. [Two Sum]([https://leetcode.com/problems/two-sum/description/])(https://leetcode.com/problems/two-sum/description/)
+Q2. [Merge Two Sorted Lists]([https://leetcode.com/problems/merge-two-sorted-lists/description/])(https://leetcode.com/problems/merge-two-sorted-lists/description/)
