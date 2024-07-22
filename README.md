@@ -1,9 +1,9 @@
-# Questions for Day 31 – (21/07/2024)
-# DSA Practice: Solving LeetCode Problems
+# Questions for Day 32 – (22/07/2024)
+# DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+Q1. [Remove Half Nodes](https://www.geeksforgeeks.org/problems/remove-half-nodes/1)
 
-Q2. [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)
+Q2. [Maximum product subset of an array](https://www.geeksforgeeks.org/problems/maximum-product-subset-of-an-array/1)
