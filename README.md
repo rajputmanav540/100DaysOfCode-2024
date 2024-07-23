@@ -1,9 +1,9 @@
-# Questions for Day 32 – (22/07/2024)
+# Questions for Day 33 – (23/07/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Remove Half Nodes](https://www.geeksforgeeks.org/problems/remove-half-nodes/1)
+Q1. [Remaining String](https://www.geeksforgeeks.org/problems/remaining-string3515/1)
 
-Q2. [Maximum product subset of an array](https://www.geeksforgeeks.org/problems/maximum-product-subset-of-an-array/1)
+Q2. [Smallest number](https://www.geeksforgeeks.org/problems/smallest-number5829/1)
