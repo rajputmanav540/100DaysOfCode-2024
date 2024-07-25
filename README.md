@@ -1,9 +1,9 @@
-# Questions for Day 33 – (23/07/2024)
+# Questions for Day 34 – (24/07/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Remaining String](https://www.geeksforgeeks.org/problems/remaining-string3515/1)
+Q1. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 
-Q2. [Smallest number](https://www.geeksforgeeks.org/problems/smallest-number5829/1)
+Q2. [Partition Labels](https://leetcode.com/problems/partition-labels/description/)
