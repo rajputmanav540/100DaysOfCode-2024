@@ -1,9 +1,9 @@
-# Questions for Day 42 – (01/08/2024)
+# Questions for Day 43 – (02/08/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+Q1. [Buddy NIM](https://www.codechef.com/SNCKPE19/problems/BUDDYNIM)
 
-Q2. [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)
+Q2. [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/description/)
