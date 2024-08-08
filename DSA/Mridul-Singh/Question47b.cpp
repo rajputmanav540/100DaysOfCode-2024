@@ -1,11 +1,11 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+//GFG Question -> Median in a row-wise sorted Matrix
+//Given a row wise sorted matrix of size R*C where R and C are always odd, find the median of the matrix.
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {   
 public:
-    int median(vector<vector<int>> &mat, int R, int C) {
+    int median(vector<vector<int>> &mat, int R, int C) {    //time complexity O(n) and space complexity O(1)
         int start = 20000, end = 0, ans;
         for(int i = 0; i < R; i++) {
             start = min(start, mat[i][0]);
