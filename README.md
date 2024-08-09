@@ -1,9 +1,9 @@
-# Questions for Day 48 – (07/08/2024)
+# Questions for Day 49 – (08/08/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Row with max 1s](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+Q1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-Q2. [Sorted matrix](https://www.geeksforgeeks.org/problems/sorted-matrix2333/1)
+Q2. [Kth element in Matrix](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1)
