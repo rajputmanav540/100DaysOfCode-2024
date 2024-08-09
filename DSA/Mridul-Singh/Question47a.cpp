@@ -1,9 +1,15 @@
+//LEETCODE PROBLEM 74
+// You are given an m x n integer matrix matrix with the following two properties:
+// Each row is sorted in non-decreasing order.
+// The first integer of each row is greater than the last integer of the previous row.
+// Given an integer target, return true if target is in matrix or false otherwise.
+
 #include<bits/stdc++.h>
 using namespace std;
 
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {       //time complexity O(n) and space complexity O(1)
         int col=matrix[0].size();
         int row=matrix.size();
         int start=matrix[0][0];
