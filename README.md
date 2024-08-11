@@ -1,9 +1,9 @@
-# Questions for Day 51 – (10/08/2024)
+# Questions for Day 52 – (11/08/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
+Q1. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
 
-Q2. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+Q2. [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
