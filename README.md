@@ -4,6 +4,6 @@
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+Q1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
-Q2. [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
+Q2. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
